@@ -39,7 +39,7 @@ Each topic has its own folder with well-documented code examples:
 ## 🚀 How to Use?
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/java-zero-to-hero.git
+   git clone https://github.com/dipakkhandare203-tech/Java-Deveploment-basic-to-advance-.git
 
 2. Navigate into the folder:
 
