@@ -1,6 +1,6 @@
 //A simple program to add three number.
 
-public class Main{
+public class AdditionOfThreeNumber{
     public static void main(String[] args) {
       int  num1 = 25;
       int  num2 = 54;

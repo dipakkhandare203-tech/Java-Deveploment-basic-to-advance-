@@ -1,6 +1,6 @@
-package com.company;
+// Simple hello world Program
 
-public class Main {
+public class HelloWorld {
  public static void main(String[] args) {
      System.out.println("Hello World");
      System.out.println("I am Dipak Khandare");
